@@ -1,0 +1,12 @@
+.ikona {
+	height: 25px;
+}
+
+.ikona:hover{
+	background-image: url('../img/ikona3.png');
+}
+
+#projektImg{
+	border: 1px solid #1a242f;
+	max-width: 500px;
+}
