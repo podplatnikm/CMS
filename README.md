@@ -1,4 +1,4 @@
-# CMS
+
 # PROJEKTopia
 
 Po meri narejen CMS sistem za vodenje projektov, dodeljevanje virov ter računanje stroškov za potrebe šolskega
